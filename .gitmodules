@@ -1,0 +1,6 @@
+[submodule "jactr-core"]
+	path = jactr-core
+	url = https://github.com/amharrison/jactr-core
+[submodule "commonreality-core"]
+	path = commonreality-core
+	url = https://github.com/amharrison/commonreality-core
